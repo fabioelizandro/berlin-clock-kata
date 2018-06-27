@@ -1,0 +1,15 @@
+{
+  "name": "berlin-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fabio Elizandro <fabio@elizandro.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.2.0",
+    "parcel-bundler": "^1.9.3"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
